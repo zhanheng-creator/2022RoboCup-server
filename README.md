@@ -1,1 +1,1 @@
-# 2022年Robocup中国赛Server和sample版本
+# 2022年Robocup中国赛Server
